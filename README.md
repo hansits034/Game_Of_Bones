@@ -1,6 +1,14 @@
 # Game-Of_Bones 🐕🦴🐈
 Game of Bones is a 2-player networked platformer game where a dog and a cat compete across multiple stages. This guide will walk you through setting up and running the game on your local machine.
 
+## Game Preview 👾
+<img width="2404" height="942" alt="Screenshot 2025-06-26 220412" src="https://github.com/user-attachments/assets/47cd27e2-c862-485d-bb3e-389ea7bffbb4" />
+<img width="2408" height="941" alt="Screenshot 2025-06-26 220532" src="https://github.com/user-attachments/assets/d1285200-ac6e-4628-88cd-f447d5e937c0" />
+<img width="1203" height="950" alt="Screenshot 2025-06-28 144839" src="https://github.com/user-attachments/assets/d9e1e70b-409a-4ad2-bf3d-aa7dc248abad" />
+<img width="1200" height="950" alt="Screenshot 2025-06-28 144947" src="https://github.com/user-attachments/assets/505ebc1e-9e56-490d-b190-e3f9ab8a1888" />
+
+
+
 ## Architecture Overview 🏗️
 The game operates on a client-server model:
 
